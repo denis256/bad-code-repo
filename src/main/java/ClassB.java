@@ -1,10 +1,10 @@
 
-public class CodeWithUnusedMethods {
+public class ClassB {
 
     float salary;
     String name;
 
-    public CodeWithUnusedMethods(float salary, String name) {
+    public ClassB(float salary, String name) {
         this.salary = salary;
         this.name = name;
     }

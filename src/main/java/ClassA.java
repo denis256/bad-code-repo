@@ -1,5 +1,5 @@
 
-public class CodeWithUnusedArgs {
+public class ClassA {
 
     private String name;
     public int age;

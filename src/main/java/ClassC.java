@@ -1,7 +1,7 @@
 /**
  * Created by denis on 3/28/17.
  */
-public class ClassWIthUnusedVariables {
+public class ClassC {
 
     int potato;
     String tomato;
