@@ -24,4 +24,10 @@ public class ClassB {
     public void setName(String name) {
         this.name = name;
     }
+
+    private void potato() {}
+
+    void tomato() {}
+
+    protected void test() {}
 }
