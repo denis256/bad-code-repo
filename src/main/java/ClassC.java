@@ -3,6 +3,11 @@
  */
 public class ClassC {
 
+    public int usedVariable;
+
+    private String privateUnusedVar;
+
+    protected float protectedVar;
     int potato;
     String tomato;
 
